@@ -1,17 +1,14 @@
 ### 🪀 Yoyoyo, welcome to all my repos!
 I'm a Full-Stack Web Developer, making tools for all to enjoy.
 <br/>
-<br/>
 
 #### So what am I up to around here?
 - <img width="16" height="16" src="https://go.dev/favicon.ico" alt="Go's gopher"> Digging into Go! I've recently been writing my APIs in Go, and it couldn't be **go**ing better!
 - Building out a finance platform for a new upcoming game 👀
 - Learning a new text editor called [Helix!](https://helix-editor.com/) It's a [Kakoune](http://kakoune.org/) inspired editor written in Rust <img width="16" height="16" src="https://www.rust-lang.org/static/images/favicon.svg" alt="Rust logo">
 - Still debating that MCFunction is the best programming language
-<br/>
 
 #### Languages & Tech:
-
 <div>
 <img height="32" width="32" src="https://www.rust-lang.org/static/images/favicon.svg" />
 &nbsp;
