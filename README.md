@@ -10,28 +10,20 @@ I'm a Full-Stack Web Developer, making tools for all to enjoy.
 - Still debating that MCFunction is the best programming language
 <br/>
 
-#### Languages & Tools:
+#### Languages & Tech:
 
 <div>
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-&nbsp;
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img height="32" width="32" src="https://www.rust-lang.org/static/images/favicon.svg" />
 &nbsp;
 <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
 &nbsp;
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 &nbsp;
 <img height="32" width="32" src="https://svelte.dev/favicon.png" />
 &nbsp;
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-&nbsp;
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-&nbsp;
-<img height="32" width="32" src="https://expressjs.com/images/favicon.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 &nbsp;
 <img height="32" width="32" src="https://www.mongodb.com/assets/images/global/favicon.ico" />
-&nbsp;
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 &nbsp;
 <img height="32" width="32" src="https://redis.io/images/favicons/favicon-32x32.png" />
 </div>
