@@ -3,8 +3,8 @@ I'm a Full-Stack Web Developer, making tools for all to enjoy.
 <br/>
 
 #### So what am I up to around here?
-- <img width="16" height="16" src="https://go.dev/favicon.ico" alt="Go's gopher"> Digging into Go! I've recently been writing my APIs in Go, and it couldn't be **go**ing better!
-- Building out a finance platform for a new upcoming game 👀
+- Recently been using a lot of Rust btw <img height="16" width="16" src="https://www.rust-lang.org/static/images/favicon.svg" alt="Rust logo" />
+- Building a finance platform in Go <img width="16" height="16" src="https://go.dev/favicon.ico" alt="Go's gopher"> for a new upcoming game 👀
 - Learning a new text editor called [Helix!](https://helix-editor.com/) It's a [Kakoune](http://kakoune.org/) inspired editor written in Rust <img width="16" height="16" src="https://www.rust-lang.org/static/images/favicon.svg" alt="Rust logo">
 - Still debating that MCFunction is the best programming language
 
