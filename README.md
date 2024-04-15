@@ -36,7 +36,7 @@ I'm a Full-Stack Web Developer, making tools for all to enjoy.
 &nbsp;
 <img height="32" width="32" src="https://www.mongodb.com/assets/images/global/favicon.ico" />
 &nbsp;
-<img height="32" width="32" src="https://redis.io/images/favicons/favicon-32x32.png" />
+<img height="32" width="32" src="https://avatars.githubusercontent.com/u/164458127?s=48&v=4" />
 &nbsp;
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" />
 </div>
