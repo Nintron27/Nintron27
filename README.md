@@ -3,10 +3,10 @@ I'm a Full-Stack Web Developer, making tools for all to enjoy.
 <br/>
 
 #### So what am I up to around here?
-- Building a finance platform in Go <img width="16" height="16" src="https://go.dev/favicon.ico" alt="Go's gopher"> for a new upcoming game 👀
-- Been using way too much Svelte recently for giant ecommerce frontends <img height="16" width="16" src="https://svelte.dev/favicon.png" />
+- *Still* building a finance platform in Go <img width="16" height="16" src="https://go.dev/favicon.ico" alt="Go's gopher"> for an upcoming game 👀
+- Digging into the concepts and powers of [Hypermedia Systems](https://hypermedia.systems/)
 - Learning a new text editor called [Helix!](https://helix-editor.com/) It's a [Kakoune](http://kakoune.org/) inspired editor written in Rust <img width="16" height="16" src="https://www.rust-lang.org/static/images/favicon.svg" alt="Rust logo">
-- Still debating that MCFunction is the best programming language
+- Always debating that MCFunction is the best programming language
 
 #### Languages:
 <div>
@@ -21,18 +21,16 @@ I'm a Full-Stack Web Developer, making tools for all to enjoy.
 
 #### JS Frameworks:
 <div>
+<img height="32" width="32" src="https://data-star.dev/static/images/datastar_icon-609293f66f41ef550244078e1e5685466ca755f379f4286e5bdf678663c24bb3.svg" />
+&nbsp;
 <img height="32" width="32" src="https://svelte.dev/favicon.png" />
 &nbsp;
 <img height="32" width="32" src="https://avatars.githubusercontent.com/u/59030169?s=48&v=4" />
-&nbsp;
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 </div>
 
 #### Other Tech:
 <div>
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-&nbsp;
-<img height="32" width="32" src="https://avatars.githubusercontent.com/u/6748139?s=48&v=4" />
 &nbsp;
 <img height="32" width="32" src="https://www.mongodb.com/assets/images/global/favicon.ico" />
 &nbsp;
