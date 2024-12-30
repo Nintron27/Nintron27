@@ -36,7 +36,7 @@ I'm a Full-Stack Web Developer, making tools to help developers, and application
 &nbsp;
 <img height="32" width="32" src="https://www.mongodb.com/assets/images/global/favicon.ico" />
 &nbsp;
-<img height="32" width="32" src="https://avatars.githubusercontent.com/u/164458127?s=48&v=4" />
+<img height="32" width="32" src="https://avatars.githubusercontent.com/u/1529926?s=128&v=4" />
 &nbsp;
 <img height="32" width="32" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" />
 &nbsp;
