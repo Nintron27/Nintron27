@@ -21,7 +21,7 @@ I'm a Full-Stack Web Developer, making tools to help developers, and application
 
 #### Frontend Frameworks:
 <div>
-<img height="32" width="32" src="https://data-star.dev/static/images/datastar_icon-609293f66f41ef550244078e1e5685466ca755f379f4286e5bdf678663c24bb3.svg" />
+<img height="32" width="32" src="https://data-star.dev/cdn-cgi/image/format=auto,width=64/static/images/rocket-animated-1d781383a0d7cbb1eb575806abeec107c8a915806fb55ee19e4e33e8632c75e5.gif" />
 &nbsp;
 <img height="32" width="32" src="https://svelte.dev/favicon.png" />
 &nbsp;
