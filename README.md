@@ -1,11 +1,11 @@
-# Sup bros, welcome to all my repos!
-I'm a Full-Stack Web Developer, making tools to help developers, and applications to empower players.
+# Welcome to all my repos!
+I'm a Full-Stack Software Engineer, making tools to help developers, and applications to empower players.
 <br/>
 
 ### So what am I up to around here?
 - Building a finance platform in Go <img width="16" height="16" src="https://go.dev/favicon.ico" alt="Go's gopher"> for the MMO [BitCraft Online](https://bitcraftonline.com/) 👀
 - Leveraging the simplicity and power of [Hypermedia Systems](https://hypermedia.systems/)
-- Trying to squeeze [NATS](https://nats.io/) into every project
+- Squeezing [NATS](https://nats.io/) into every project
 - Always debating that MCFunction is the best programming language 😎
 
 ### Languages:
@@ -30,6 +30,8 @@ I'm a Full-Stack Web Developer, making tools to help developers, and application
 <img height="32" width="32" src="https://avatars.githubusercontent.com/u/59030169?s=48&v=4" />
 &nbsp;
 <img height="32" width="32" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" />
+&nbsp;
+<img height="32" width="32" src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4" />
 </div>
 
 ### Other Tech:
