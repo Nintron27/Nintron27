@@ -1,5 +1,5 @@
 # Welcome to all my repos!
-I'm a Full-Stack Software Engineer, making tools to help developers, and applications to empower players.
+I'm a Full-Stack Software Engineer, making tools to help developers, and applications to empower people.
 <br/>
 
 ### So what am I up to around here?
